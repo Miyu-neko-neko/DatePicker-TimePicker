@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestDatePicker</string>
+    <string name="no_date">No Data</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="stringformat">%d/%02d/%02d</string>
+    <string name="stringformat2">%02d:%02d</string>
+</resources>
